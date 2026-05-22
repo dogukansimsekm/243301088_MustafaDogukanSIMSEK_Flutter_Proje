@@ -1,17 +1,25 @@
-# el_emegi_sistemi
+# El Emeği Satış Sistemi
 
-A new Flutter project.
+Bu proje, el emeği ürünlerin sergilendiği ve satışa sunulduğu bir mobil/web uygulamasıdır. Kullanıcıların kayıt olabildiği, ürün ekleyebildiği ve ürün detaylarını görüntüleyebildiği bir yapıya sahiptir.
 
-## Getting Started
+## 🛠 Kullanılan Teknolojiler
 
-This project is a starting point for a Flutter application.
+* **Flutter:** Arayüz tasarımı ve mobil geliştirme.
+* **Supabase:** Backend servisleri, veritabanı yönetimi ve kullanıcı kimlik doğrulaması (Auth).
+* **Dart:** Uygulama dili.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Proje Özellikleri
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* **Kullanıcı Yönetimi:** Kayıt olma, giriş yapma ve profil görüntüleme.
+* **Ürün Listeleme:** Veritabanından gelen ürünlerin şık kart tasarımlarıyla listelenmesi.
+* **Ürün Ekleme:** Kullanıcıların sisteme yeni ürün eklemesi.
+* **Ürün Detay:** Ürün detaylarına özel sayfa tasarımı.
+* **Güvenli Çıkış:** Profil sayfasından güvenli çıkış yapabilme özelliği.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Giriş bilgileri:
+
+Satıcı: test3@gmail.com 
+password: sifre1234.
+
+alıcı:alihaydar@gmail.com
+password:sifre1234
