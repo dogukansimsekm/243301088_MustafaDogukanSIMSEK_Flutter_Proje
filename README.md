@@ -19,7 +19,7 @@ Bu proje, el emeği ürünlerin sergilendiği ve satışa sunulduğu bir mobil/w
 *Giriş bilgileri:
 
 Satıcı: test3@gmail.com 
-password: sifre1234.
+password: sifre123.
 
 alıcı:alihaydar@gmail.com
 password:sifre1234
